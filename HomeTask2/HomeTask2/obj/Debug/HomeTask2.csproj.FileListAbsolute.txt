@@ -1,0 +1,9 @@
+H:\C#_Training\HomeTask2\HomeTask2\bin\Debug\HomeTask2.exe.config
+H:\C#_Training\HomeTask2\HomeTask2\obj\Debug\HomeTask2.csprojResolveAssemblyReference.cache
+H:\C#_Training\HomeTask2\HomeTask2\obj\Debug\HomeTask2.Form1.resources
+H:\C#_Training\HomeTask2\HomeTask2\obj\Debug\HomeTask2.Properties.Resources.resources
+H:\C#_Training\HomeTask2\HomeTask2\obj\Debug\HomeTask2.csproj.GenerateResource.Cache
+H:\C#_Training\HomeTask2\HomeTask2\bin\Debug\HomeTask2.exe
+H:\C#_Training\HomeTask2\HomeTask2\bin\Debug\HomeTask2.pdb
+H:\C#_Training\HomeTask2\HomeTask2\obj\Debug\HomeTask2.exe
+H:\C#_Training\HomeTask2\HomeTask2\obj\Debug\HomeTask2.pdb
